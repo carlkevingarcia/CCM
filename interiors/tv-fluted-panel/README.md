@@ -16,6 +16,7 @@ Concept mockups for replacing the freestanding dark-wood TV pillar in the living
 |--------|------|--------|
 | Walnut (recommended) | `tv-fluted-panel-walnut-room.jpg`, `tv-fluted-panel-reeded-walnut.jpg` | Ties to stair treads / handrail |
 | Light oak | `tv-fluted-panel-oak-room.jpg` | Brighter, more contrast with dark sofa |
+| Oak layout + walnut color | `tv-fluted-panel-oak-layout-walnut-color.jpg` | Picture-2 composition with picture-1 walnut tone |
 | Detail / close-up | `tv-fluted-panel-detail.jpg`, `tv-fluted-panel-reed-closeup.jpg` | Flute depth + mounting read |
 
 ## Reference
